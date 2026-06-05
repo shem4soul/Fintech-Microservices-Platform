@@ -1,4 +1,4 @@
-# Square Me Microservices Monorepo
+# Fintech Microservices Monorepo
 
 This repository contains a set of microservices for the Square Me platform, orchestrated with Docker Compose and managed within an [Nx](https://nx.dev/) monorepo.
 
